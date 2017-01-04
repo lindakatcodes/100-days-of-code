@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Day 1 - Jan. 3, 2017
+Day 1 - Jan. 3, 2017 (1h39m)
 
 *Today's project* - Finished the last intermediate algorithm challenge on FCC, got halfway through the Git backend challenge.
 
