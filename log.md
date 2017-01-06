@@ -8,11 +8,20 @@ Day 1 - Jan. 3, 2017 (1h39m)
 
 *Link to project/challenge* - Arguments optional (https://www.freecodecamp.com/challenges/arguments-optional)
 
-------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 Day 2 - Jan. 4, 2017 (1h12m)
 
 *Today's project* - Finished Git challenge, spent some time investigating google sheets API
 
 *Thoughts* - I want to create a simple inventory site for my current workplace. I've been attempting working on this project for months, and even got the main html set up like I wanted...but I've struggled big time to get the database/object storage side down. Hence me spending time working on the back end challenges to try and figure out how to make this project work. If I can use these 100 days to get that actually working, I'll be incredibly pleased. Today did not make any progress....more of my time was spent trying to set up my dev area for the site (clearing away past attempts). Right now I'm thinking I can somehow use the google sheets API (since I have my current data on my personal google drive) to then show, read, and write to those cells, and let my sheet be my database. Very unskilled in reading and utilizing API's that don't specifically show JS samples, though. 
 
------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+
+Day 3 - Jan. 5, 2017 (1h53m)
+
+*Today's project* - Worked on getting my google spreadsheet to connect and show data on my solo site - FINALLY GOT IT TO WORK!
+
+*Thoughts* - I can hardly believe that I FINALLY got my data to show! I've spent literally MONTHS trying to work out how to connect a database to this, and have attempted to use the Google Sheets API before without success. Somehow tonight I finally found the right examples and references to work out some code that's actually working. Over the moon excited! Tomorrow I'll focus on setting my code up to a GitHub repo so I can share it as I go with everyone. Next task will then be working out how to make changes to the data so they'll store in the spreadsheet.....
+
+----------------------------------------------------------------------------------------------------------------------------
+
