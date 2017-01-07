@@ -25,3 +25,11 @@ Day 3 - Jan. 5, 2017 (1h53m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 4 - Jan. 6, 2017 (1h40m)
+
+*Today's Project* - Figure out how to get my local machine set up so I can edit / create on there and push my code to GitHub
+
+*Thoughts* - Well, there's still a ton I don't understand about git and GitHub and how it all connects with VS Code, my current editor of choice. My working solution atm is to open just the specific folder I'm working on (which I'm not crazy about - I like having my programming folder open so I can see and switch between all my folders / projects but then the Git tab on VS Code wants to create a repo for the whole folder and it doesn't work right), do whatever work I need to do, commit the changes there, then go to my GitHub on my local and sync the changes with my online version. Seems like too many steps, buuuuut for now, it's working and I reasonably get it. lol Also added what I still have left to do for full functionality on the project's readme so I can guide my work and check things off as I go!
+
+----------------------------------------------------------------------------------------------------------------------------
+
