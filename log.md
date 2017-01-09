@@ -41,3 +41,13 @@ Day 5 - Jan. 7, 2017 (2h42m)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 6 - Jan. 8, 2017 (~2h44m)
+
+*Today's Challenge* - Completed the Express challenge on FCC & helped my partner show his live streaming video on a personal webpage
+
+*Thoughts* I am still majorly confused about Express. Did not feel like I really understood much about what I was actually doing through the tutorial. I mean I got through it, but I have zero faith I could actually use it in a real application. Still a long ways to go with that. Also felt like it used a TON of outside 'middleware' / libraries. I mean I think that's part of how it is, but....just confusing. 
+
+Getting the video on a webpage was not near as hard as it sounded when my partner asked me...we found an easy way to get the embed code from the media server he's using, and from there it was just a matter of getting it saved in the right folder and getting the hosting for the webpage set up. Did a little bit of styling to get the video horizontally centered and changed the background color. He's super pleased with it, so I'm really glad I could help him. :) 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
