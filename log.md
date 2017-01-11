@@ -51,3 +51,11 @@ Getting the video on a webpage was not near as hard as it sounded when my partne
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 7 - Jan. 10, 2017 (2h55m)
+
+*Today's Challenge* - Fixed the search bar I broke the other day on home/new tab page; moved my stamp inventory files to cloud9; started work on Reverse Phone Numbers algorithm
+
+*Thoughts* - Today is definitely a rough failure day. I spent the majority of my time attempting to be able to properly view my stamp inventory site on cloud9. If I use their run feature, it doesn't load my script or style pages....and I utterly failed at getting my gulp/browser-sync files to work properly. Still can't actually view the site properly on there. Which doesn't allow me to make progress during free/down time at work. No idea what I'm doing wrong or might be missing to get it to show properly. In an attempt to ease my frustration and feel like I made actual progress today, I started the algorithm challenge. I did at least make some progress there, but naturally there's a lot of edge cases to cover and I'm too tired now to keep working through it.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
