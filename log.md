@@ -59,3 +59,11 @@ Day 7 - Jan. 10, 2017 (2h55m)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 8 - Jan. 11, 2017 (1h28m)
+
+*Today's Challenge* - Finished the phone number verifying algorithm & the symmetric distance algorithm.
+
+*Thoughts* - Made much better progress on the phone number algorithm today. A day's worth of thinking gave me a better idea of what to test for, and I got it done with 4 regexp's. The Regexr.com site was a huge help for this! I still have plenty of time so tackled the symmetric difference algorithm too (the record collection one was already done, as it used to be in the json challenges). It took some time and testing in VS Code to use the debugger, but finally figured out why my reduce method wasn't returning anything (you have to return the value, duh) and got that solved too! Well on my way to finishing the algorithm's this month so all I have left for front and back end are full projects - mini goal #1. :)
+
+---------------------------------------------------------------------------------------------------------------------------
+
