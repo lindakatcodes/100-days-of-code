@@ -67,3 +67,11 @@ Day 8 - Jan. 11, 2017 (1h28m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 9 - Jan. 12, 2017 (2h16m)
+
+*Today's Challenge* - Got my cloud9 stamp inventory program finally fixed so I can view everything correctly; started exact change algorithm.
+
+*Thoughts* - Well it took me an hour tonight (not to mention a chunk of time earlier today and frustration a few days ago), but I finally got my cloud9 workspace set up and working correctly. I ended up having to completely scrap the workspace I had, make a brand new one, update the node version, and add my three files (html, css, js) to the root directory. Then I had to figure out why I still couldn't see my google sheets data (I had to add the cloud9 preview address to my google api authorization). But it finally works, so I can make progress during down times at work! Then started the exact change algorithm, got the easiest parts taken care of and now just have to work out how to count down the change and log it into the right format.
+
+---------------------------------------------------------------------------------------------------------------------------
+
