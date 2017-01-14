@@ -75,3 +75,10 @@ Day 9 - Jan. 12, 2017 (2h16m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 10 - Jan. 13, 2017 (1h18m)
+
+*Today's Challenge* - Completed Exact Change algorithm
+
+*Thoughts* This one was stumping me for a bit. Got a hint from the forum's post on this algorithm to account for the individual amounts (a penny, a dime, etc) which helped a lot. Then it was just a matter of figuring out how to fix the odd rounding it kept doing, so it would account for everything like I thought it should. 
+
+--------------------------------------------------------------------------------------------------------------------------
