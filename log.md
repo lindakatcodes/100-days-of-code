@@ -82,3 +82,12 @@ Day 10 - Jan. 13, 2017 (1h18m)
 *Thoughts* This one was stumping me for a bit. Got a hint from the forum's post on this algorithm to account for the individual amounts (a penny, a dime, etc) which helped a lot. Then it was just a matter of figuring out how to fix the odd rounding it kept doing, so it would account for everything like I thought it should. 
 
 --------------------------------------------------------------------------------------------------------------------------
+
+Day 11 - Jan. 14, 2017
+
+*Today's Challenge* - Complete the learnyoumongo exercises
+
+*Thoughts* - I struggled for a good while on exercise 3....it took me a long time to realize that each new terminal I opened needed to have mongodb installed onto it for it to work. Still doesn't quite make sense to me...but it solved my error I was getting, so I rolled with it. Once that was solved, the rest went by reasonably easily. Definitely lots of new terminology, I wouldn't say I fully understood and could reapply it all right away....but it made enough sense that I feel like with some dedicated time I could get used to it and make it work for me if I wanted. 
+
+-------------------------------------------------------------------------------------------------------------------------
+
