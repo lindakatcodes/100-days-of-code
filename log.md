@@ -83,11 +83,19 @@ Day 10 - Jan. 13, 2017 (1h18m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Day 11 - Jan. 14, 2017
+Day 11 - Jan. 14, 2017 (3h08m)
 
 *Today's Challenge* - Complete the learnyoumongo exercises
 
 *Thoughts* - I struggled for a good while on exercise 3....it took me a long time to realize that each new terminal I opened needed to have mongodb installed onto it for it to work. Still doesn't quite make sense to me...but it solved my error I was getting, so I rolled with it. Once that was solved, the rest went by reasonably easily. Definitely lots of new terminology, I wouldn't say I fully understood and could reapply it all right away....but it made enough sense that I feel like with some dedicated time I could get used to it and make it work for me if I wanted. 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Day 12 - Jan. 16, 2017 (2h46m)
+
+*Today's Challenge* - Completed Inventory Update algorithm, started No Repeats Please algorithm
+
+*Thoughts* - I was able to solve the Inventory Update algo in about half an hour, which was awesome. I'd seen a few times that the no repeats algo was causing people trouble....and I can see why! lol It took me a good while to implement a version of Heap's algorithm (the recommended option), lots of searching and trial and error until I could get one to work. So I'm getting all of the possible permutations for each string. I started working on a regexp to catch repeated letters and remove those from the possibilities, but it's not quite catching everything yet.
 
 -------------------------------------------------------------------------------------------------------------------------
 
