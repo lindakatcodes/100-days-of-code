@@ -99,3 +99,11 @@ Day 12 - Jan. 16, 2017 (2h46m)
 
 -------------------------------------------------------------------------------------------------------------------------
 
+Day 13 - Jan. 17, 2017 (1h30m)
+
+*Today's Challenge* - Worked on stamp inventory site
+
+*Thoughts* - Well, I've got what I want down for the used stamp form. It adds a new line easily so it can tailor to however many it needs and not have to show all possible options each time. Needs some work for where to add the finished button and toggling the display, as well as the actual storing/updating of entered values. Still, it took some work to get the dynamically adding thing to work so I'm pleased overall! Some of that was started at work yesterday, but some more final touches were added tonight. Also got my cloud9 setup connect to my github repo for it and so it's able to push and update whatever work I do, so I can work online or on my local machine and use the same code. Blows my mind that that's possible - to type a line into the terminal somewhere and it updates my github pages! Crazy.
+
+--------------------------------------------------------------------------------------------------------------------------
+
