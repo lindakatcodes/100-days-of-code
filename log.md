@@ -107,3 +107,11 @@ Day 13 - Jan. 17, 2017 (1h30m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 14 - Jan. 18, 2017 (1h49m)
+
+*Today's Challenge* - Finished No Repeats algorithm, started Friendly Dates algorithm
+
+*Thoughts* - Got no repeats working relatively easily today, just took creating a variable to count the number of strings that passed instead of trying to change the whole array. Friendly dates is kicking my butt currently....got the month figured out easily, thought I had the date pretty easily (though I've got a bit to tweak there). When to add the years is what's messing with me right now. It works for some but not all, and I keep confusing myself. Might just be because it's late for me and my brain's tired. lol 
+
+--------------------------------------------------------------------------------------------------------------------------
+
