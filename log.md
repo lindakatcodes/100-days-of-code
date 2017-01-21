@@ -115,3 +115,19 @@ Day 14 - Jan. 18, 2017 (1h49m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 15 - Jan. 19, 2017 (2h14m)
+
+*Today's Challenge* - Added footer to stamp inventory & updated with git; finished Friendly Dates algorithm; daily css tutorial
+
+*Thoughts* - Spent some time in the morning adding a footer (and therefore a bit more space on the bottom) and updating my changes with git to my github repo. Also finished up the friendly dates algorithm so that was done. Felt great to start the day with finishing some things that were on my mind. Then finished the day in the evening following the blog post/walkthrough for the daily css images deal, making the little koala and adding my own mouth onto him. lol 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Day 16 - Jan. 20, 2017 (2h4m)
+
+*Today's Challenge* - Daily CSS Images D1: bear cub
+
+*Thoughts* - I was going to do some algorithm work, and even spent about 45 minutes reading through articles and trying to wrap my mind around them...but I just wasn't getting anywhere. Had no idea where to go or quite what to do. So instead I changed course, cleared off my time tracker, and started over by creating the first daily css images challenge - a bear cub! I can tell I'm going to get extra picky on these, trying to tweak and tailor everything very minutely - but it was fun and he's not all that bad. :)
+
+----------------------------------------------------------------------------------------------------------------------------
+
