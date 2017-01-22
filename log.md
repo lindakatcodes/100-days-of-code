@@ -131,3 +131,11 @@ Day 16 - Jan. 20, 2017 (2h4m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 17 - Jan. 21, 2017 (1h2m)
+
+*Today's Challenge* - Two algorithms complete - Make a Person and Map the Debris
+
+*Thoughts* - I couldn't wrap my mind around these last night, so today I took my time during commerical breaks of Disney movies and worked through them with the help of the FCC forum articles on these algorithms. Just looking at the hints it gives you on the wiki/forum pages makes a big difference for me sometimes in getting through these. Only one more algorithm left to complete until it's just projects for my certs! Though I'll likely be waiting a bit before starting those, as I know they've got a new setup in beta that might get pushed in soon - we'll see on that. 
+
+----------------------------------------------------------------------------------------------------------------------------
+
