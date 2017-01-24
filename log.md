@@ -139,3 +139,11 @@ Day 17 - Jan. 21, 2017 (1h2m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 18 - Jan. 23, 2017 (1h12m)
+
+*Today's Challenge* - Pairwise algorithm complete - meaning all algorithms are done! Also two CodeWars katas done.
+
+*Thoughts* - Woooohoooo all my algorithm challenges are done! Nothing left to do on FCC but projects. :) Think I'm going to take a break from FCC for a bit, do the Javascript30 class I got next month, and see if the new beta map will be cleared for the live version in a month or so. If not, there's at least two projects I can do now that will copy over to the new version. Plus I'll have Daily CSS challenges to do and my stamp inventory to finish. Maybe some websites to make and portfolio to redo. :) I had only done ~45 minutes when I finished the algorithm, so I did the two CodeWars katas to fill in my hour and give me a litle more practice on things.
+
+---------------------------------------------------------------------------------------------------------------------------
+
