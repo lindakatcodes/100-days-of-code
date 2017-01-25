@@ -147,3 +147,11 @@ Day 18 - Jan. 23, 2017 (1h12m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 19 - Jan. 24, 2017 (1h50m)
+
+*Today's Challenge* - Work on forms for stamp inventory
+
+*Thoughts* - Did some good work at work earlier today on getting my used form to look right, and then duplicating it (with some changed names) for the stock form. So the look is there (though when I tried to look at it locally tonight the size of one field does not look right and wouldn't adjust no matter what I did, no idea what that was about)....mostly. The remove button on mobile goes just slightly outside of the form box but I can't work out how to prevent that and still keep it on the right line, so...meh. Tonight, on the code clock, I tried to work on getting the data from the form and actually updating my stamp array with that data. No luck yet that I can tell.
+
+--------------------------------------------------------------------------------------------------------------------------
+
