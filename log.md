@@ -155,3 +155,11 @@ Day 19 - Jan. 24, 2017 (1h50m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 20 - Jan. 25, 2017 (1h23m)
+
+*Today's Challenge* - Still trying to fix the form functionality
+
+*Thoughts* - Super frustrated tonight. I found where my issue is - my form submit function is getting the values from my form, but for some reason it can't find the name value in my stamp array, even though when I print out the array I can clearly see it there. Somehow using indexOf isn't finding it. No idea what's wrong....both the stamp value and the form returned values are strings, there's no extra spaces anywhere that I can tell, the spelling and capitalization are the same....yet somehow, it doesn't see it. I'm at my wits end for tonight, I had to stop. I mean at least I know where the hangup is, I guess....but I have NO CLUE how to fix it. Ugh.
+
+----------------------------------------------------------------------------------------------------------------------------
+
