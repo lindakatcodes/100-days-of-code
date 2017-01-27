@@ -163,3 +163,11 @@ Day 20 - Jan. 25, 2017 (1h23m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 21 - Jan. 26, 2017 (1hr33m)
+
+*Today's Challenge* - MY FORM/SITE IS WORKING!!!!
+
+*Thoughts* - I don't even have words. I'm so dang excited!!! I FINALLY got the functionality for my stamp inventory site working!!! Lots of time struggling with the Google Sheets API, some help from some freeCodeCampers, and plenty of frustration went into this. I worked some outside of my timed coding (while at work) on getting this problem solved. It still has some final style and wording to clean up, and I still have a little bit of work left to do as far as if I want to prevent the default submit and clear/reset the forms manually or if I want to let it submit and somehow redirect or clear the url so the query doesn't show. But oh my glob - IT'S UPDATING THE GOOGLE SPREADSHEET AND SHOWING ON MY PAGE AND I JUST CAN'T!! lol
+
+----------------------------------------------------------------------------------------------------------------------------
+
