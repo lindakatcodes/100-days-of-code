@@ -177,5 +177,7 @@ Day 22 - Jan. 28, 2017 (5h11m)
 
 *Thoughts* - I didn't get to code yesterday, but I was itching too all night. So I made up for it today. lol Bit of a marathon, but I got the last few touches I wanted done worked out (toggle for my inks, some sizing / style issues on my forms, conditional formatting for my table if something's below a certain range) and cleaned up my code on my github repo so my personal stuff is removed and folks could view/copy it if they'd like. :) I am beyond stocked. This project has been on my mind for literally MONTHS and I've made a few attempts before and got so frustrated I had to walk away. My mind is blown that I finally worked out how to do it and got it all working and it's beautiful and amazing and just UGH I'm so happy with myself. lol :) The final test will be showing the folks at work on Monday and updating all my info the the correct quantities so I can start really using it! Oh, and I guess uploading it to my server so it's an actual site too. lol
 
+The final repo: https://github.com/lindakatcodes/StampInventory
+
 -----------------------------------------------------------------------------------------------------------------------------
 
