@@ -181,3 +181,11 @@ The final repo: https://github.com/lindakatcodes/StampInventory
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 23 - Jan. 30, 2017 (1h00m)
+
+*Today's Challenge* Watched the Getting Started and Drum Kit videos on JavaScript30, read a tech blog post
+
+*Thoughts* I really wanted to make more progress tonight, but my new work schedule and an unplanned errand took most of my time. At least got a slight start on JS30, and am ready to really dig into the first project tomorrow. Gonna be learning a lot about ES6, which I haven't really used yet! Wish I could host my files on CodePen, but some of the files (audio files so far) I don't have a way to support on there. Ah well. Screenshots & gifs it'll be. Gonna work to make more time tomorrow!
+
+---------------------------------------------------------------------------------------------------------------------------
+
