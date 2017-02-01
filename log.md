@@ -189,3 +189,11 @@ Day 23 - Jan. 30, 2017 (1h00m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 24 - Jan. 31, 2017 (2h40m)
+
+*Today's Challenge* JS30 Drum Kit, Daily CSS elephant work
+
+*Thoughts* Felt much better today. Got the JS30 drum kit working, which is pretty cool. It's much more walkthrough/tutorial like than I expected, but I'm gonna pick up a lot of ES6 stuff and event functionality and such so it's gonna be fun. To counteract the guided learning for 100Days, I started working on my elephant for day 2 of Daily CSS. He's actually coming along quite nicely, I got probably 70% of the way done. Just gotta add the eyes, maybe some back legs and a tail, and a few other little details and he'll be good to go. I've never considered myself to be good at drawing or creating art, so this is actually turning out to be really fun. I get to feel artsy by just writing out code and having it become some simple art on my screen. Pretty cool. :) 
+
+---------------------------------------------------------------------------------------------------------------------------
+
