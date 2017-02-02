@@ -197,3 +197,11 @@ Day 24 - Jan. 31, 2017 (2h40m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 25 - Feb. 1, 2017 (1h20m)
+
+*Today's Challenge* Finished my elephant, completed JS30 day 2 - clock
+
+*Thoughts* - Pretty pleased with my final elephant! He gave me some practice with using transform, plus working on taking a drawing a piece at a time and helping it all fit together. There's still some things I know can be done better that I just don't know how yet, but for being my second solo css drawing - big improvement! The JS30 clock was interesting....kind of fun to see the hands ticking along. He mentioned at the end of the video that you could prevent the skipping look when the hands hit the top by toggling the transition time or counting the time or something....but honestly I just removed the transition entirely and everything still seems to be working and it doesn't do the skipping thing. Without numbers on the clock I might be wrong that it's not messing anything up lol buuuuut it doesn't seem to! I don't know, seemed odd but I'm too tired to worry too much about it. Definitely need to find something to point out specific ES6 traits soon though....there's things we write (like the little tick marks) that I know are specific to it but I don't really get what they're doing. I was hoping this course would be a bit more in depth with actually learning what things are and how/why they work, rather than simply following along and creating. It's definitely still good exposure, just...not quite what I expected & hoped for.
+
+-------------------------------------------------------------------------------------------------------------------------
+
