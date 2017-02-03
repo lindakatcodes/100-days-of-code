@@ -205,3 +205,11 @@ Day 25 - Feb. 1, 2017 (1h20m)
 
 -------------------------------------------------------------------------------------------------------------------------
 
+Day 26 - Feb. 2, 2017 (1h31m)
+
+*Today's Challenge* Completed two CodeWars katas, gained a kyu level, completed JS30 update CSS variables with JS
+
+*Thoughts* - I wanted to do some algorithm challenges or something today - I know, what is going on with me? ;) So I went to CodeWars and did two katas, one capitalizing the first letter of each word in a string, one taking two objects of fighters and having them battle then returning the winner. Felt pretty good! Then completed the day 3 challenge on JS30 of updating CSS variables with JS. Pretty cool - I had no idea you could actually use variables in CSS itself! I knew it was possible with SASS and likely others I'm not aware of, but not in straight CSS! So cool. I went back to one of my daily CSS pens and played with creating some variables to store colors on them and it works there too, so this is gonna make future images easier to color and style. :) 
+
+-------------------------------------------------------------------------------------------------------------------------
+
