@@ -213,3 +213,19 @@ Day 26 - Feb. 2, 2017 (1h31m)
 
 -------------------------------------------------------------------------------------------------------------------------
 
+Day 27 - Feb. 3, 2017 (1h14m)
+
+*Today's Challenge* - Two days of JS30 
+
+*Thoughts* - Went through array cardio day 1 which was helpful. I could always use more practice with map and reduce, which I still struggle with fully grasping. Also went through the next day, flex panels image gallery, because I had an idea for a project start and this sounded like it could help. And the a point, it did. It was definitely interesting and fun, though I'm not sure exactly how much it'll help with my project. Still, two good days. I started to look up some books or classes to help me 'get' ES6 but my internet went down, so that ended my day pretty quickly.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Day 28 - Feb. 4, 2017 (1h11m)
+
+*Today's Challenge* - Started work on my project - a one page site for displaying some sports photos for a job application
+
+*Thoughts* - There's an option with the mlb to take photos and videos and work with social media stuff for my local baseball team, and I've always wanted to be able to be closer to the field and have a chance to take tons of more shots than I usually can from the stands, so I've decided to apply. One of the requirements is to have a portfolio of previous sports photography. So that's what I'm working on now. Tonight I got the basic set up looking right....got a header bar for my name to go in, got the main section set up to show rows of the photos with proper space in between, and got the footer bar for contact info. Plus put the colors in. This took me longer than I expected, as projects often can lol. So next step is to actually upload my photos and then put all the links in and then work on adjusting things as I'm sure they'll change the current set up.
+
+-------------------------------------------------------------------------------------------------------------------------
+
