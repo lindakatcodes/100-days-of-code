@@ -229,3 +229,11 @@ Day 28 - Feb. 4, 2017 (1h11m)
 
 -------------------------------------------------------------------------------------------------------------------------
 
+Day 29 - Feb. 6, 2017 (1h47m)
+
+*Today's Challenge* - More work on photo portfolio page.
+
+*Thoughts* - Got the images all uploaded onto imgur and then looooots of tweaking to get everything looking right on my page. A bit of work on font and sizing of the info on the page too. All that's left to do is letting the picture increase (& maybe darkening the background) when you click a picture, so you can see a larger size. Really need to finish this up tomorrow....it's already taking longer than I'd prefer for a job app that I don't consider myself likely to get. Still gonna try though. :) 
+
+--------------------------------------------------------------------------------------------------------------------------
+
