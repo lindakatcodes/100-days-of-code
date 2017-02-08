@@ -237,3 +237,11 @@ Day 29 - Feb. 6, 2017 (1h47m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 30 - Feb. 7, 2017 (2h37m)
+
+*Today's Challenge* - Got photo folio page as close to done as it's gonna get.
+
+*Thoughts* - Well, it's not quite perfect, but it's good enough to move on from. I was able to work out the modal/single image view pretty quickly, then spent a good while problem solving why I was having to double click for it to work (hint: I had the click function going twice, duh lol). Then removing some unnecessary divs, adding a link for the imgur album on the off chance that sizing goes weird or images don't load, attempting to hide the body scrollbar while the modal is up (never could get that to work, just living with it), and trying to decide on how to adjust the sizing so the images look as best as possible on different screen sizes. It's not perfect, but it's as good as it's going to get and I have to just move on from it. I'll write the cover letter and submit everything tomorrow night, then it's adjustment time for my stamp site....got a few changes from using it a bit that I'd like to make. 
+
+--------------------------------------------------------------------------------------------------------------------
+
