@@ -245,3 +245,11 @@ Day 30 - Feb. 7, 2017 (2h37m)
 
 --------------------------------------------------------------------------------------------------------------------
 
+Day 31 - Feb. 8, 2017 (58m)
+
+*Today's Challenge* - Quick touch up change on sports folio, reading blog posts on css images
+
+*Thoughts* - Short night tonight, especially since my internet kept going down. Did a final (for reals) touch up on my sports photo page, changing the images from original size to huge thumbnail so it'll load a touch quicker on mobile. Finally sent the actual application off, so that's really truly done now. Was going to start some changes on my stamp site, but got overwhelmed with trying to figure out how to do it so decided to skip it for tonight. Spent some time reading some blog posts on css images and subsequent links from that article.
+
+--------------------------------------------------------------------------------------------------------------------------
+
