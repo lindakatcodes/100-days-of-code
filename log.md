@@ -253,3 +253,11 @@ Day 31 - Feb. 8, 2017 (58m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 32 - Feb. 9, 2017 (1h1m)
+
+*Today's Challenge* - Started work on Daily CSS beaver
+
+*Thoughts* - Didn't honestly think I'd get to working on anything tonight - my schedule's been slipping and I've got to get it back onto a track that suits me better. But I started working on my next Daily CSS - beaver. Did some researching of what I might want him to look like, and got the background and box all set up, along with the basic shapes for the head, body, and tail. Had my positioning all wrong at first (trying to do it from memory of my previous ones) and couldn't quite figure out why everything was working odd....went back to one of the previous ones and found out pretty quick I'd gotten my positions all wrong for the elements. Got that changed up pretty easily though! And still managed a full hour....it's later than it should be but it's done! :)
+
+------------------------------------------------------------------------------------------------------------------------
+
