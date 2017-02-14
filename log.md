@@ -261,3 +261,11 @@ Day 32 - Feb. 9, 2017 (1h1m)
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day 33 - Feb. 13, 2017 (1h6m)
+
+*Today's Challenge* - Halfway through course on using npm scripts as build tools
+
+*Thoughts* - I'd heard through a podcast I listen to (can't currently remember which one) that npm scripts were decent for running and watching things, and then the other day stumbled onto a link about using npm scripts as a build tool that looked to be about an hour long. Had initially hoped to get it all done tonight, but through writing my own file along with the videos and adding in notes as I go (so I can actually stand some chance of remember wtf it all does lol) I only made it about halfway through. Some interesting things, definitely learning and getting some ideas that I might be able to play with and use for future projects. Looots of dependencies in these videos though. Still sooooo much I haven't even been exposed to, much less actually using and understanding them. No worries - I'll get there eventually, if I need to.
+
+---------------------------------------------------------------------------------------------------------------------
+
