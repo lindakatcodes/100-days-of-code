@@ -269,3 +269,11 @@ Day 33 - Feb. 13, 2017 (1h6m)
 
 ---------------------------------------------------------------------------------------------------------------------
 
+Day 34 - Feb 14, 2017 (1h20m)
+
+*Today's Challenge* - Finished npm scripts course, eyes and nose on daily css beaver done
+
+*Thoughts* - I think I might have a few interesting things from the npm scripts videos I watched...but honestly I know I missed good info in the last one because I legit almost fell asleep during it. Definitely felt like something I would have gotten more out of if I was a lot more used to npm and the crap ton of packages that exist out there. To finish off my time today, I got back to my beaver and worked out his general eye shape and the beginnings of the nose/mouth area. It's getting harder to get my hour in lately....I'm working longer hours and starting later and just generally tired when I get home. Plus, I think I might be itching for another real project and not so much smaller things. I'm still determined to keep learning and getting better and continuing with this, so I've gotta work on figuring this out so I get my coding time in each weeknight. I want to get my beaver finished, but it might be about time to start my next project idea - a new website for my current company!
+
+--------------------------------------------------------------------------------------------------------------------
+
