@@ -277,3 +277,11 @@ Day 34 - Feb 14, 2017 (1h20m)
 
 --------------------------------------------------------------------------------------------------------------------
 
+Day 35 - Feb 15, 2017 (1h10m)
+
+*Today's Challenge* - Workin' on my CSS beaver
+
+*Thoughts* - Man....beaver's are hard! lol Odd looking creatures too. Half my time was spent playing around with the idea I had, and then the other half was spent finding a picture I actually liked and therefore scrapping what I had and starting over. This one, I think, is going to turn out much better. At least, I hope so! 
+
+---------------------------------------------------------------------------------------------------------------------
+
