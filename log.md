@@ -285,3 +285,11 @@ Day 35 - Feb 15, 2017 (1h10m)
 
 ---------------------------------------------------------------------------------------------------------------------
 
+Day 36 - Feb. 16, 2017 (1h8m)
+
+*Today's Challenge* - More beaver work.
+
+*Thoughts* - This little dude feels like he's taking forever! lol I got the arm, leg, and tail done today though. Used linear gradients for his little paws, which I think turned out decently. Nothing's blending quite like I want, buuuuut it's good enough for now. Tomorrow will be getting the face details then hopefully any final touches, and I can be finished with him!
+
+--------------------------------------------------------------------------------------------------------------------
+
