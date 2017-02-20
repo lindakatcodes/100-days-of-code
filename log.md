@@ -293,3 +293,12 @@ Day 36 - Feb. 16, 2017 (1h8m)
 
 --------------------------------------------------------------------------------------------------------------------
 
+Day 37 - Feb. 19, 2017 (1h30m)
+
+*Today's Challenge* - Finished up my daily CSS beaver!
+
+*Thoughts* - Well, he doesn't look quite like the picture I was using as inspiration, but my beaver is as close as I can get him and he's done! I was able to play a lot with gradients this time around....some linear ones for his legs and tail, and a pattern using some layers of linear ones (which I found from someone else online and changed the colors of lol) for the 'fur' texture. Overall I think he turned out alright....I'm always well aware my amateur status when I do these lol but at least I finished and it looks somewhat like a beaver. lol
+
+---------------------------------------------------------------------------------------------------------------------
+
+
