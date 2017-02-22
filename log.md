@@ -301,4 +301,12 @@ Day 37 - Feb. 19, 2017 (1h30m)
 
 ---------------------------------------------------------------------------------------------------------------------
 
+Day 38 - Feb. 21, 2017 (1h13m)
+
+*Today's Challenge* - 3 JS30 videos
+
+*Thoughts* - Today's videos: ajax type ahead, more array functions, and html5 canvas! I've worked with type ahead before, and at least minor experience with the array functions, so more of that was extra exposure to ES6. The canvas thing was really fun though! I have no doubt it just barely covered the surface of what it's capable of, but it was still a lot of fun to play with. :)
+
+---------------------------------------------------------------------------------------------------------------------
+
 
