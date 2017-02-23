@@ -309,4 +309,12 @@ Day 38 - Feb. 21, 2017 (1h13m)
 
 ---------------------------------------------------------------------------------------------------------------------
 
+Day 39 - Feb. 22, 2017 (1h23m)
+
+*Today's Challenge* - 3 more JS30 videos
+
+*Thoughts* - Lots of interesting things today. Learned more console commands, like console.info, error, warn, table, dir, plus ways to add different text and variable names in. Learned how to check all checkboxes in between a set of checked boxes while holding down shift. And played with controlling an HTML5 video player. My brain is feeling pretty full today. I do feel like I'm slowly getting more used to ES6 notation of things...I don't really fully understand the what or why of how things are how they are, but I'm feeling like I'm sort of able to see how they work. Definitely still want to learn more about exactly what all the things mean/do, but at least I'm reasonably getting the logic behind it all, which is good.
+
+----------------------------------------------------------------------------------------------------------------------
+
 
