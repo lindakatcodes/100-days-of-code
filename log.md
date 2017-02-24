@@ -317,4 +317,12 @@ Day 39 - Feb. 22, 2017 (1h23m)
 
 ----------------------------------------------------------------------------------------------------------------------
 
+Day 40 - Feb. 23, 2017 (1h03m)
+
+*Today's Challenge* - Days 13-14 of JS30
+
+*Thoughts* - Today's work included detecting key sequences, sliding objects in & out on scroll, and reference vs copy of arrays & objects. Lots of good basic JS knowledge, as far as detecting certain events and dealing with copies and such. Also got the pen made and background box set for my next daily CSS challenge. Gotta get some ideas flowing....
+
+-----------------------------------------------------------------------------------------------------------------------
+
 
