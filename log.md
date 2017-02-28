@@ -325,4 +325,12 @@ Day 40 - Feb. 23, 2017 (1h03m)
 
 -----------------------------------------------------------------------------------------------------------------------
 
+Day 41 - Feb. 27, 2017 (1h15m)
+
+*Today's Challenge* - JS30 local storage video, deciding on guide/plan going forward
+
+*Thoughts* - I was pretty interested in this one - I'd tried to use local storage before on a previous project and didn't have any luck getting it to work. I was honestly hoping to understand a bit more by the time the video was done, but overall - pretty decent one. It was good to see it actually working, to get a taste for it at least, and I think it'll be enough that I can play with it in the future and have better success than I did previously. The rest of my time was spent working out which/how many videos to do each day and when I'd finish the course up, plus deciding if I wanted to continue with the current freeCodeCamp curriculum or switch to the beta. I'm gonna switch to the beta after I finish JS30. I like the idea of how they've got it broken up now, I think it'll give some more/better understanding of things, plus I like the idea of having the projects tested each time. A lot of them I'll have done already with the current curriculum and can then update them to pass the new tests. I'll still have to wait awhile (probably) to actually get the certificates, depending on when it goes live, but at that point it'll be relatively easy to simply resubmit my project links and do the algorithms again (practice which will always help lol). Also I'm going to aim for one Daily CSS image every week or two, since I like the challenge and I think it'll be a good skill to keep working on. This'll be what I'm counting for my 100 days...luckily I'm getting to work on projects for work while I'm actually on the clock on Tues/Thurs, which is nice. I'll be taking weekends off from here on out to keep myself from burning out. Excited to see what I continue to learn and build. :)
+
+---------------------------------------------------------------------------------------------------------------------
+
 
