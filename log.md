@@ -333,4 +333,12 @@ Day 41 - Feb. 27, 2017 (1h15m)
 
 ---------------------------------------------------------------------------------------------------------------------
 
+Day 42 - Feb. 28, 2017 (1h18m)
+
+*Today's Challenge* - JS30 : text shadow w/ mouse move, sorting w/out articles(the/an), tally times; + html setup on daily css tiger
+
+*Thoughts* - The videos were reasonably light and straight forward today. Text shadow playing was fun. The sorting made a lot of sense, most of it I felt like I would've gotten but I learned a new way to do some regex things. Tallying times was decent practice. Plus I got the html divs & classes all set up for my new css drawing, & a picture/idea picked out for how I want to draw him. That's the easier part lol - the hard part comes with actually working out the sizes of parts and fitting them all together.
+
+----------------------------------------------------------------------------------------------------------------------
+
 
