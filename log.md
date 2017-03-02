@@ -341,4 +341,12 @@ Day 42 - Feb. 28, 2017 (1h18m)
 
 ----------------------------------------------------------------------------------------------------------------------
 
+Day 43 - Mar. 1, 2017 (1h08m)
+
+*Challenge* - JS30 webcam fun video, work on daily css tiger
+
+*Thoughts* - The webcam video was pretty fun to play with after the fact. My own computer doesn't have a webcam, but my partner's does, so we turned it on his and (once we got it functioning on his computer properly lol) had some fun with it. He's liked a lot of the things we've made in this course and wants me to repurpose some of the stuff for him to use in other things, so it'll be fun in the future to see how well that goes. Got the basic head and face shapes done for my tiger. I think this one's gonna turn out really nice, actually - I'm at least excited about my idea and the face shape is working nicely so far, so that might change. lol But I think right now it's going to turn out really well. :)
+
+--------------------------------------------------------------------------------------------------------------------------
+
 
