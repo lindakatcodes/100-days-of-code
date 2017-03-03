@@ -349,4 +349,12 @@ Day 43 - Mar. 1, 2017 (1h08m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 44 - Mar. 2, 2017 (1h27m)
+
+*Challenge* - JS30 speech recognition, geolocation, and follow along links + more tiger work
+
+*Thoughts* - Today's videos weren't quite as fun, simply because I don't have a microphone on my desktop & I don't have a mac for the recommended simulator (and wasn't going to look for a windows one for one video). I tried the speech one on my phone (I'm doing them all on codepen) and it registered my speech, though it wouldn't add new paragraphs, only overwrite each one. I think it had more to do with how it was using the phone's microphone than the code, though. The geolocation one I didn't test, might try it tomorrow while I'm at work or something. The links was cool though. And my tiger is coming along nicely, got the eyes, nose, and most of the mouth done tonight. Definitely coming along nicely. :) 
+
+---------------------------------------------------------------------------------------------------------------------------
+
 
