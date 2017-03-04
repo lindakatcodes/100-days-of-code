@@ -357,4 +357,12 @@ Day 44 - Mar. 2, 2017 (1h27m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 45 - Mar. 3, 2017 (1h35m)
+
+*Challenge* - Tiger work
+
+*Thoughts* - Man, tonight felt like I worked waaaaay more than 1.5 hours. I had hoped to make way more progress tonight than I did, but some of this is still evading me. I got the ears done though, and one cheek hair. lol 
+
+-------------------------------------------------------------------------------------------------------------------
+
 
