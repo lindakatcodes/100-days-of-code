@@ -365,4 +365,14 @@ Day 45 - Mar. 3, 2017 (1h35m)
 
 -------------------------------------------------------------------------------------------------------------------
 
+Day 46 - Mar. 6, 2017 (2h20m)
+
+*Challenge* - Finished my Daily CSS tiger!
+
+*Thoughts* - Worked a lot longer tonight, and finally got my tiger done! I spent the first part of my time finding some articles about using box shadow and pseudo elements with css. The pseudo elements I still couldn't get to work in my own code, though the examples I played with worked....so more to learn there, clearly I missed something. But the box shadow worked like a charm and I was able to use it to really make my tiger come out just how I wanted. Super, super pleased with how it turned out. :) Plus I found some good reference articles, including a good one listing all kinds of shapes made using a single div! 
+
+*Project Link* - https://codepen.io/lindakatcodes/full/MpWPpN/
+
+-------------------------------------------------------------------------------------------------------------------
+
 
