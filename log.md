@@ -375,4 +375,12 @@ Day 46 - Mar. 6, 2017 (2h20m)
 
 -------------------------------------------------------------------------------------------------------------------
 
+Day 47 - Mar. 8, 2017 (1h18m)
+
+*Challenge* - JS30 day - speech synthesis, sticky nav, event capture/propagation/bubbling/once
+
+*Thoughts* - The videos were good today - I was worried I wouldn't be able to enjoy the speech synthesis one but luckily I was able to get the google voices so that was a fun one. Sticky nav was very helpful and will come in handy when I redo my portfolio soonish. And the event one had good info on event listeners that was nice to know. I also did a bit of research on what I wanna do for my next daily css - favorite animated animal. Hoping he comes out just as well as my tiger did, which has gotten a lot of awesome attention on Twitter. :) 
+
+---------------------------------------------------------------------------------------------------------------------
+
 
