@@ -383,4 +383,12 @@ Day 47 - Mar. 8, 2017 (1h18m)
 
 ---------------------------------------------------------------------------------------------------------------------
 
+Day 48 - Mar. 9, 2017 (44m)
+
+*Challenge* - JS30 follow along dropdown & click drag scroll
+
+*Thoughts* - The follow along dropdown is pretty nifty, can definitely see that being used in the future. Real nice effect. The click and drag scroll is pretty decent too. Thinking about how it could be improved to go faster / slower depending on mouse speed and when you release and such kind of boggles my mind. Cutting it short tonight as I'm just feeling bushed....I could've done another video to reach a full hour but honestly I want to be able to pay full attention and as sleepy as I am right now it just wouldn't happen. Plus I did manage some work on the company website during work hours today, so I'm calling it good.
+
+--------------------------------------------------------------------------------------------------------------------
+
 
