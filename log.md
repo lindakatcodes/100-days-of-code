@@ -391,4 +391,12 @@ Day 48 - Mar. 9, 2017 (44m)
 
 --------------------------------------------------------------------------------------------------------------------
 
+Day 49 - Mar. 10, 2017 (2h17m)
+
+*Challenge* - Finished JS30! Video speed controller, countdown clock, & whack a mole game
+
+*Thoughts* - Well....I finished it! Definitely grew to really enjoy the course and have honestly been exposed to a lot, and at least some of it has sunk in. Some I still need to dive into more. :) Pretty good videos to wind the course down with. The video controller was relatively simple and fun. The countdown clock was very interesting and will help me with one of my freeCodeCamp projects down the road. And the whack a mole game was fun, once I figured out a way to load the svg images so codepen could see them. :) Had to use my personal site for hosting, basically. But it's the first one I've added a small bit of extra styling to, adding a game over text and tweaking the start button a touch. Definitely lots to think about and reuse in the future, and sparked an interest in learning more about ES6 and just general building. Good way to (basically) end the first half of my 100 Days!
+
+--------------------------------------------------------------------------------------------------------------------
+
 
