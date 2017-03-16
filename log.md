@@ -399,4 +399,12 @@ Day 49 - Mar. 10, 2017 (2h17m)
 
 --------------------------------------------------------------------------------------------------------------------
 
+Day 50 - Mar. 15, 2017 (1h45m)
+
+*Challenge* - Adjustment on personal home page, container set up for next daily CSS image, research on possible books/classes
+
+*Thoughts* - A few things done today. Got the background color and container positioning set for my next CSS image, plus the colors identified for my character so it's ready when I get into the actual shape making. Most of my time tonight went to adjusting my personal home/start page. I took off a course I just finished, created/touched up a few icons for new pages I wanted to add, and did some rearranging of links/icons so it flows well. Then a bit of research on books to read and/or classes to start to further my learning. I'm having a hard time deciding on a true course of action. I have a reasonable idea of the work that I want to create most and a layman's understanding of what it is that I should learn....but when I go to actually research and find materials to learn that, I either feel way over my head or it just doesn't sound right. Like I'm getting ahead of myself, or else I can't find a straight forward path. I don't know. I love working with JavaScript, and I find myself wanting to create pages/apps that help to organize, track, and update inventory/work orders/data in general. So clearly I need some database work, and some back-end JS. Just...haven't managed to come across the right materials to really help me understand how to do it. So I guess my current plan is to work through the freeCodeCamp beta (I like the organization better, plus new material I think will help), read either You Don't Know JS or Eloquent JS (likely both, just gotta pick one to start with), and work on these daily CSS images. And keep an eye/ear out for other things that will help me learn more about databases and what can work with JS and working with forms and storing/updating data. 
+
+-----------------------------------------------------------------------------------------------------------------------
+
 
