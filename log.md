@@ -407,4 +407,14 @@ Day 50 - Mar. 15, 2017 (1h45m)
 
 -----------------------------------------------------------------------------------------------------------------------
 
+Day 51 - Mar. 16, 2017 (1h52m)
+
+*Challenge* - Started the freeCodeCamp beta route, plus some work on my daily css image
+
+*Thoughts* - So I've decided I want to work through the beta version of freeCodeCamp, both because I think the curriculum seems filled out better and because it's been a big help to me and I want to help test and point out / fix problems so the beta can become the main and help more people. I made it about halfway through the HTML section, making little notes along the way of minor changes I think could/should be made. I made my first github issue comment too! lol Was able to take a gif of my screen to show a small problem and add to an issue already started to help clarify what's going on for those who could fix it. 
+
+Also made some decent progress on my next css image, got the face shape worked out and the ears, some basic posititioning set and colors picked out that match as best as possible. My image won't have any of the texture or color gradients as the image I'm working off of, but I'm gonna get it as close as I can, dangit. lol Also my image is my favorite character from a video game that I adore, and it was super fun working on this image while listening to the soundtrack from the game. :)
+
+------------------------------------------------------------------------------------------------------------------------
+
 
