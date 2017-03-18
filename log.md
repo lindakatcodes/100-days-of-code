@@ -417,4 +417,12 @@ Also made some decent progress on my next css image, got the face shape worked o
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day 52 - Mar. 17, 2017 (1h43m)
+
+*Challenge* - Finished fcc beta HTML section, more work on daily css image
+
+*Thoughts* - So, the HTML section is done now. No new bugs that I noticed, just continuations of issues I noticed yesterday. The two big ones have current open issues on github so I'm not the only one noticing them and they're being addressed. I made some good progress on my image today too, got the ear details and hat done. All that's left to do is facial details - eyes, brows, nose, and mouth. I think this one's gonna turn out really cute and just how I want. :) Another good feeling! Gonna ride it while I have it, for sure. lol
+
+----------------------------------------------------------------------------------------------------------------------
+
 
