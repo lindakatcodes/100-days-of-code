@@ -425,4 +425,12 @@ Day 52 - Mar. 17, 2017 (1h43m)
 
 ----------------------------------------------------------------------------------------------------------------------
 
+Day 53 - Mar. 20, 2017 (1h30m)
+
+*Challenge* - fcc beta CSS challenges, more daily css work
+
+*Thoughts* - Got started later than I intended tonight but I still got some good time in. Made it a third of the way through the fcc beta CSS section - all stuff I know already, but I'm trying to check for spelling and understanding in the instructions. Then spent the rest of my time working on my daily css image. I only got the eyes and eyebrows done tonight, which doesn't feel like enough...but they were being super finicky. lol Definitely coming along! 
+
+------------------------------------------------------------------------------------------------------------------------
+
 
