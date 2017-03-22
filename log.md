@@ -433,4 +433,12 @@ Day 53 - Mar. 20, 2017 (1h30m)
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day 54 - Mar. 21, 2017 (1h27m)
+
+*Challenge* - fcc beta CSS challenges, daily css work
+
+*Thoughts* - More CSS challenges on fcc beta tonight. Thought the parts about inheritance of styles was pretty nicely done, though it irks me that you can't really see what you're doing on the little sample screen. Spent most of my time working on my css image - I got the nose and mouth basically set up tonight, so all that's really left is some more tweaks on the shape of facial features and maybe a few details for the tounge and eyebrows. He's so close! Honestly he looked more like himself without the facial features lol which tells me I'm still pretty bad at working out detailed shapes that aren't fully circular or rectangular. But it's all practice, so eventually I'm bound to get better. lol Still, he's looking pretty decent - some finishing touches are all that's left!
+
+------------------------------------------------------------------------------------------------------------------------
+
 
