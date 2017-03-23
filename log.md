@@ -441,4 +441,12 @@ Day 54 - Mar. 21, 2017 (1h27m)
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day 55 - Mar. 22, 2017 (1h43m)
+
+*Challenge* - daily CSS image work
+
+*Thoughts* - UGH. The outline of my character looks just like I want....but the facial features are all wrong, and just look too fake/cartoony. Which, you know, this IS a cartoon/animated character I'm making. But still. It just looks silly and amateur and wrong, and I don't like it. But also am completely out of ideas for making it more like I want. No idea what to do now. Pretty frustrating spending all night on a thing to get it done and feeling worse about it now than I did when I started tonight. Honestly not sure what I'm gonna do.
+
+----------------------------------------------------------------------------------------------------------------------
+
 
