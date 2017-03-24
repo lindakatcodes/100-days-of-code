@@ -449,4 +449,12 @@ Day 55 - Mar. 22, 2017 (1h43m)
 
 ----------------------------------------------------------------------------------------------------------------------
 
+Day 56 - Mar. 23, 2017 (1h26m)
+
+*Challenge* - continuing daily css work
+
+*Thoughts* - Went back to the drawing board today and made some big changes on my current image. Adjusted the face height as I felt I'd made it too tall, so then had to go in and adjust the cheeks and ears and such. Then (almost) completely redid the face, working on each piece at a time to make adjustments to size and shape and then copy and tweak it for the other side of the face. Definitely feeling better than I was yesterday. Just the mouth to go tomorrow, and possibly some more eyebrow work if I get the mouth curve working like I want (as the brows could use some more curving as well if it's possible). Hallelujiah, I'm so glad this seems to be working better. Yesterday was rough.
+
+------------------------------------------------------------------------------------------------------------------------
+
 
