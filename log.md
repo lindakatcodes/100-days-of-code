@@ -457,4 +457,12 @@ Day 56 - Mar. 23, 2017 (1h26m)
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day 57 - Mar. 24, 2017 (1h57m)
+
+*Challenge* - Finished my daily css image!
+
+*Thoughts* - Well, my image is as good and done as it's going to get. The main things that will make it better are skills and practice that I just don't have yet. I'm definitely much happier with it now than I was a few days ago. I wish I could do curved lines more/better, especially lines that have multiple different curves, which border radius can't do. Will need to look into something for that. Also will soon need to get into 3d transforms and ways to gives some depth to my drawings. Otherwise....I think it's a pretty decent first drawing of one of my favorite animated characters ever. Will likely want to come back to him down the road and try another one when I've got some more skill under my belt.
+
+-------------------------------------------------------------------------------------------------------------------------
+
 
