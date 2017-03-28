@@ -465,4 +465,12 @@ Day 57 - Mar. 24, 2017 (1h57m)
 
 -------------------------------------------------------------------------------------------------------------------------
 
+Day 58 - Mar. 27, 2017 (45m)
+
+*Challenge* - fcc beta CSS challenges
+
+*Thoughts* - Getting myself caught up on the freeCodeCamp beta challenges tonight. Still making notes of the random things I notice that somehow I'll need to post to the group github so others can test and fix if needed. Couldn't make it the full hour tonight, I'm falling asleep at my desk and that's no good for learning.
+
+--------------------------------------------------------------------------------------------------------------------------
+
 
