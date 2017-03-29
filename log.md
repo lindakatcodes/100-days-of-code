@@ -473,4 +473,12 @@ Day 58 - Mar. 27, 2017 (45m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 59 - Mar. 28, 2017 (43m)
+
+*Challenge* - fcc beta Applied Visual Design challenges
+
+*Thoughts* - Another shorter day today. Looking into buying a laptop for mobile coding and so I got distracted. :) Made some good progress on the fcc beta site tonight though. Actually learned a new thing too, hsl()! Also up to a point where the rest of this section will be new stuff for me, playing with animations in css and such which I've been wanting to get into but haven't been sure where to start. 
+
+-----------------------------------------------------------------------------------------------------------------------
+
 
