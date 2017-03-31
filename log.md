@@ -481,4 +481,12 @@ Day 59 - Mar. 28, 2017 (43m)
 
 -----------------------------------------------------------------------------------------------------------------------
 
+Day 60 - Mar. 30, 2017 (1h07m)
+
+*Challenge* - fcc beta Finished applied visual design section
+
+*Thoughts* - Got some good, new practice with the end of this section! Worked with animations, keyframes, and bezier curves. I hadn't really delved into the idea of animations and how that might work so this was a nice introduction. Definitely interesting in trying some of this out in my next CSS image. Also a few examples of using :before and :after to create images which was really nice to see, as I've still struggled to implement this at all in my challenges. The bezier curve section could use some visuals though...describing a curve with simply words is a bit hard to understand what it's doing and how it works. Overall a really nice end to the section though and I'm glad I've started to gain some new informaiton. A lot of this first section in the beta is information I've already covered a few times before so is mostly practice, so it's fun to get to some new ideas.
+
+---------------------------------------------------------------------------------------------------------------------------
+
 
