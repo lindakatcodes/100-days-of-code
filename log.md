@@ -489,4 +489,20 @@ Day 60 - Mar. 30, 2017 (1h07m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 61 - Mar. 31, 2017 (40m)
+
+*Challenge* - fcc beta Accessibility challenges
+
+*Thoughts* - Got through half of the accessibility section on the fcc beta page. (Honestly don't remember much exactly as I forgot to log this on the day it actually happened. lol)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Day 62 - Apr. 4, 2017 (1h03m)
+
+*Challenge* - Finished fcc beta accessibilty section & responsive web design principles section
+
+*Thoughts* - More good information tonight, covering accessibility and responsiveness. I'm almost positive I won't remember all the accessibility stuff as I keep moving forward....a lot of it was pretty surface level and didn't realy feel like it sunk in. But also a lot was pretty common sense "label your stuff and keep it in order" ideas, so maybe more will get through than I think. I felt the same about the responsive web design section, which was much shorter and mostly covered @media and viewport sizing. All good info, just....not sure how much really sank in. We'll see in a day or two as I'm about to hit the first projects! 
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
