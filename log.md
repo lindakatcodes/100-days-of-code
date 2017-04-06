@@ -505,4 +505,12 @@ Day 62 - Apr. 4, 2017 (1h03m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 63 - Apr. 5, 2017 (1h06m)
+
+*Challenge* - fcc beta flexbox challenges + tribute page research
+
+*Thoughts* - Finished the last of the learning/reading challenges for the Responsive Web Design section! Now on to the projects. The flexbox section finished tonight was decent....felt like it gave a good overview of the different properties. Definitely liked having this in there, instead of jumping straight to Bootstrap as the current version does. This will be a skillset that'll go a lot farther into a developer's workflow. Did some more checking out of other people's tribute pages to get some creative ideas. I feel like I want to completely redo a new tribute page instead of updating my first one to pass the new tests (which I love the idea of the tests!). Just....have no idea who to make it about! Same problem I had last time. lol 
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
