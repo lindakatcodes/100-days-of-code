@@ -513,4 +513,14 @@ Day 63 - Apr. 5, 2017 (1h06m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 64: Apr. 7, 2017 (3h7m)
+
+*Challenge* - fcc beta tribute page project
+
+*Thoughts* - Finally decided on a subject for my tribute page - my favorite baseball team. :) Picked out some history facts of the team to put into the page, got some pictures, and got it all set up! Actually pretty pleased with it. It's still simpler than a lot of other samples I saw, but I think it looks decent for a night's work. Felt good enough about it to submit it and move forward. 
+
+*Project Link* - https://codepen.io/lindakatcodes/full/wJbZwB/
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
