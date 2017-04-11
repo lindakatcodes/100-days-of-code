@@ -523,4 +523,12 @@ Day 64: Apr. 7, 2017 (3h7m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 65: Apr. 10, 2017 (1h1m)
+
+*Challenge* - Started fcc beta survey form project
+
+*Thoughts* - Having some fun with this one in choosing the questions. :) The hardest part for me in all of these is picking/writing the material...this one I had an idea on the way home so I'm going to make it work. Got about halfway through writing out the questions & basic format tonight, so should probably finish that up tomorrow and get started on the design. We'll see how it goes!
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 
