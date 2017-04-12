@@ -531,4 +531,12 @@ Day 65: Apr. 10, 2017 (1h1m)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 66: Apr. 11, 2017 (1h18m)
+
+*Challenge* - More work on survey form
+
+*Thoughts* - Made some good progress on this tonight. Got the questions finished up and all the tests pass. Picked out the font and got the main section styled. All that's left is to touch up styling on the questions themselves, style up the button, and then see if I can get the submit response to work how I have in mind. My questions are so ridiculous(ly good), I just can't with it. lol Can't wait to share it when it's done! 
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
