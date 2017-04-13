@@ -539,4 +539,12 @@ Day 66: Apr. 11, 2017 (1h18m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 67: Apr. 12, 2017 (1h30m)
+
+*Challenge* - Finished styling survey form
+
+*Thoughts* - Well, I was hoping to have this form finished tonight, but it's not quite there. I got the styling I wanted done, it looks about as good as it's gonna look. There's just one last thing I wanted it to do, when the form is submitted, that I just ran out of time to get working. The Rangers game distracted me, admittedly. :) It's gonna take a bit of JS to get the submit part working, and right now I couldn't figure out why it wasn't doing what I thought it should be. It'll have to wait for tomorrow night though, if I don't go to bed now I won't get up for work on time. lol
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
