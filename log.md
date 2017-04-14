@@ -547,4 +547,12 @@ Day 67: Apr. 12, 2017 (1h30m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 68: Apr. 13, 2017 (1h14m)
+
+*Challenge* - 98% done with survey form
+
+*Thoughts* - Ugh! My form is almost working just like I want it to. My only issue is with a modal I have popping up after submit. If my form button is a submit type, it resets the form as it should but the modal never pops up. If I set it as a button type, my modal shows like it should and I have the form set to reset and everything...but then, since it's not a submit button, it doesn't do any of the HTML5 validation of the form stuff. It runs on a simple click so you see the modal regardless of if you entered anything into the form or not. Trying to use preventDefault had zero effect from what I could tell. I so wanted to be done with this tonight! But it's just not right. Will hopefully get it resolved tomorrow.
+
+--------------------------------------------------------------------------------------------------------------------------
+
 
