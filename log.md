@@ -555,4 +555,12 @@ Day 68: Apr. 13, 2017 (1h14m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 69: Apr. 14, 2017 (1h37m)
+
+*Challenge* - Tried in vain to fix final issue with survey form
+
+*Thoughts* - Spent all night trying to get my one issue fixed. No luck whatsoever. Even posted in the freeCodecamp gitter channels trying to ask for help, but so far nothing. Super frustrated. 
+
+---------------------------------------------------------------------------------------------------------------------------
+
 
