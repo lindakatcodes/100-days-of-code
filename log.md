@@ -563,4 +563,18 @@ Day 69: Apr. 14, 2017 (1h37m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Interlude: Thanks to a helpful person on the freeCodeCamp Gitter account, I got my form working like I want! Since all I did was change a small line of code and adjust the size of the submit button I didn't count this towards a day's learning, but wanted it stored here for future reference.
+
+Project link: https://codepen.io/lindakatcodes/full/OmLPYP/
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Day 70: Apr. 18, 2017 (1h14m)
+
+*Challenge* - Read a bunch about learning & getting started with back-end
+
+*Thoughts* - I'm getting bored with the front-end work I've been doing. The programs/sites I really want to build for work are going to require back-end to work like we need them to. So somehow, I've got to learn it. It just hasn't been as easy to find good courses/reading guides/what have you to get started. There seems to be a lot more variety in the way you can do things, which makes it harder. But I found some videos I think will be helpful, and a tutorial thing that seems like it might be interesting. The freeCodeCamp beta site will definitely have some interesting, potentially helpful info as well....I'm a bit more doubtful on it though, as working through the main site I was left more confused than enlightened on the back-end stuff, the tutorials they used didn't really seem to click for me. Beta might be different but I'm just not certain. Definitely ready to get back into JS though, I haven't written it in a while (outside of some small bit for my survey form) and I'm definitely feeling it. 
+
+---------------------------------------------------------------------------------------------------------------------------
+
 
