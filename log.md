@@ -577,4 +577,12 @@ Day 70: Apr. 18, 2017 (1h14m)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Day 71: Apr. 19, 2017 (57m)
+
+*Challenge* - STarted reading Eloquent JS
+
+*Thoughts* - Another night where I couldn't find the motivation to work on any projects or courses. So I started reading Eloquent JS. Been meaning to read it for forever, why not now. Did not get all that far, still in the intro, but it's started.
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
