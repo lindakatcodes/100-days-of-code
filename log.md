@@ -585,4 +585,12 @@ Day 71: Apr. 19, 2017 (57m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 72: Apr. 20, 2017 (1h6m)
+
+*Challenge* - General programming idea research
+
+*Thoughts* - Did some article reading today on a way to make viewport transitions smoother and a bit of an intro into restful api's. Read a bit about HTTP verbs and what REST and CRUD stand for, which I know I've heard before but I wanted the refresher. I made a list of topics/things I want to dig into deeper, places where I can feel the knowledge gap is too big and that I want to fill. So I at least have some starting points for when I'm stuck. Basically another research night. Felt pretty good tonight though.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 
