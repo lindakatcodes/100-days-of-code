@@ -593,4 +593,12 @@ Day 72: Apr. 20, 2017 (1h6m)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 73: May 2, 2017 (1h16m)
+
+*Challenge* - Articles read, CSS grid garden done
+
+*Thoughts* - I'm back! Took a break for just over a week, as work was short staffed so my days required most of my energy. Back and ready to finish this up! I read an article about JS promises today - sadly it was pretty much all over my head, but I'm hoping that at least a tad of it sunk in somewhere and will help me out in the future. It was geared more for mid-senior level developers which I am not, so I'm not super worried about not understanding what it was saying. Also played with CSS grid garden, my first real exposure to the new grid spec. Overall made sense....though some random bits seemed odd. Think it'll just take more exposure and playing around to really cement the knowledge. I tested it out using my new laptop! Gotta make sure writing code will work well on it, since that's the main reason I bought it. :) So far so good!
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
