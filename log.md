@@ -601,4 +601,12 @@ Day 73: May 2, 2017 (1h16m)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 74: May 8, 2017 (1h2m)
+
+*Challenge* - Async/Await JS videos, course research, planning
+
+*Thoughts* - Finished up a little video course on using async and await with ES6. I started them the other day, intending to do a full day, and fell asleep. lol So reviewed and finished that up tonight. Found a few other courses on the same site that should be interesting and saved those. Also spent some time looking over what I've done so far in this 100 days challenge, and trying to decide what I want to accomplish in the next 30 days as I wrap this up. I honestly still haven't decided. I'm feeling directionless and seem to have a hard time starting and working on anything. Think I wanna do some touch ups on past projects for work that I've thought of improvements for, maybe get another daily CSS or two done, do some of the fcc beta walkthroughs and algorithms. Maybe some other video courses. I'd like to end on a strong note, do at least another project of some sort, just....not sure what way to go just yet. 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 
