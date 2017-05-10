@@ -609,4 +609,12 @@ Day 74: May 8, 2017 (1h2m)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+Day 75: May 9, 2017 (1h7m)
+
+*Challenge* - Work on improving delivery form
+
+*Thoughts* - Decided tonight to start working on improving some of my little sites I've made for my current workplace, staring with my delivery form. I made the two form fields required, since although I haven't yet submitted any with blank items, they do need to be filled out so that can help prevent blanks in the future. The rest of my time was spent trying to resolve an issue I've just recently seem occuring, which is that occasionally some items are being submitted more than once. My form currently is set to reload the page 1200ms after a successful submission, so the fields are being reset. I think somehow though that when I go to pull my chrome tab open again on my mobile, it's somehow resubmitting the previous data. It doesn't show it, but it's the only thing that makes sense. I'm working on a script in my google spreadsheet that will simply make it easier to check for and remove duplicate entries if they have the later timestamp (hence not the one I initially submitted), but.....so far it's not working. I think the way I'm checking two rows together is causing an issue, but I'm out of time for tonight so I'll have to tackle that tomorrow.
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
