@@ -617,4 +617,12 @@ Day 75: May 9, 2017 (1h7m)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 76: May 10, 2017 (1h45m)
+
+*Challenge* - More work on improving delivery form data tracking / cleaning
+
+*Thoughts* - Well it took all night, but I worked out a script to run on my google sheet that will remove any duplicate entries! It keeps the earliest timestamped entry, which is the true entry. For some reason, if I leave the form open but minimize my chrome browser (I use this form on mobile), then pull open the form again, it's occasionally resubmitting my previous data even though it doesn't show on screen. No idea why, and honestly it was easier to make a script I can run on my spreadsheet occasionally than try to solve that problem. lol I had initially found a sample script that use a for..in loop, and in the end had to change it out to a regular for loop so that I could more easily differentiate the values. Since my data is pulled using an array (so zero indexed) but in a table that starts at 1, plus I needed to pull the current row and the next row, the for..in loop was not cooperating and specifically writing it all out in a regular for loop solved almost all of my issues. My last tweak was to actually remove the removed row from the data pool, as not doing that was throwing my row numbers off. lol Makes sense. So it works now! Still another validation thing I think I wanna do, then to push the updated code to my site so I can start using the more secure form. :) The script is already in and ready when I need it! And my current data is nice and clean(er). :) 
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
