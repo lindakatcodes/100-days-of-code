@@ -625,4 +625,12 @@ Day 76: May 10, 2017 (1h45m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 77: May 11, 2017 (1h12m)
+
+*Challenge* - Uploaded delivery form changes, CodeWars kata, started Daily CSS clock 
+
+*Thoughts* - A bit all over the place today, but I followed where the inspiration hit. First uploaded my minor code changes for my delivery form, so I'm using the current version. Then wanted a bit of JS, so I did a CodeWars kata. The one I got for tonight was relatively easy for me (thanks freeCodeCamp for having me do something similar lol) and was a good refresher. The next one I had no idea where to start, so decided instead to finally start on my next Daily CSS image. :) I'm creating my own design but using one of my JavaScript30 codes as a base, so I can have the hands of the clock animate for the current time. Still deciding a bit on the overall look, but I think it's gonna turn out fun. 
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
