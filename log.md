@@ -633,4 +633,12 @@ Day 77: May 11, 2017 (1h12m)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 78: May 16, 2017 (1h20m)
+
+*Challenge* - Worked on getting git set up on laptop, adjust some vs code settings
+
+*Thoughts* - Well I was hoping to get some minor adjustments done on my delivery form but that didn't happen. Ended up needing to make some editor changes with my vs code on my laptop since I haven't really used it yet, then spent some time getting git downloaded and installed onto it so I can use it. Still need to make a repository for my delivery form so I can more easily keep it up to date with changes (when I changed it the other day there were minor things I didn't notice were different so now it's not quite right), but that'll have to be for tomorrow's work. 
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
