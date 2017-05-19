@@ -641,4 +641,11 @@ Day 78: May 16, 2017 (1h20m)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 79: May 18, 2017 (2h7m)
+
+*Challenge* - UGH. Way longer than it should have taken me, but I managed to get my delivery form correctly set up with git and a private repo for it, got them lined up correctly, and managed to make the change I needed. Most of the inital changes I needed were easy - just minor style things I'd forgotten about that I had to adjust. But I wanted to add some validation for the number field I have so it only allows a length of 6. Well, the input attributes pattern, minlenght, and maxlength don't work on the number input type. UGH. I managed to find a workaround from someone where you can set the input type to tel and it brings up the number pad and also allows the min and max lengths to be set. It doesn't look as pretty on the phone since the number pad now shows like a telephone pad (with the three letters to each number styling), but - it works, and that's what really matters. 
+
+I had major issues getting my repo set up right. Just a newb with git and matching up a local and remote repo. I kept getting duplicate files and a separate folder somehow and it took me multiple tries to finally get it to do what I wanted. At least it's working now is all I can say. Definitely a ton more to learn there. 
+
+-----------------------------------------------------------------------------------------------------------------------------
 
