@@ -649,3 +649,11 @@ I had major issues getting my repo set up right. Just a newb with git and matchi
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 80: May 22, 2017 (1h6m)
+
+*Challenge* - Looked up some keyboard shortcuts and did some freeCodeCamp JS work
+
+*Thoughts* - Spent my first bit of time looking up some keyboard shortcuts. All the videos of pro programmers that I see they always move so fast in their editors, and I want to improve with that, especially as I start to use my laptop more and am not the biggest fan of touchpads. I think a few of them stuck (and it helps I knew some already) but it'll definitely take time to really get used to some. Will definitely need to look up the vs code ones more and actually play around and see which ones I'll want to use the most getting started.....there are A LOT of options there! The rest of my time was spent working my way through the fcc beta JS section. I'm going to get through the basic and ES6 sections, possibly slightly more, and then I actually spent money on a course and got Wes Bos' Learn Node course. I want to feel a bit more comfortable with the ES6 syntax though, so I'm doing this as a warmup to be really to really dive into this course. 
+
+-------------------------------------------------------------------------------------------------------------------------
+
