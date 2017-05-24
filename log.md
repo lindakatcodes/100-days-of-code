@@ -657,3 +657,11 @@ Day 80: May 22, 2017 (1h6m)
 
 -------------------------------------------------------------------------------------------------------------------------
 
+Day 81: May 23, 2017 (1h27m)
+
+*Challenge* - fcc beta JS challenges
+
+*Thoughts* - More work on the fcc beta site today, going through basic JS challenges. Ended up submitting an issue on the github for the beta, as a couple of the challenges wouldn't allow correct code to pass without a page refresh. Odd. I was able to take a screen gif and share it, so hopefully that helps someone who can fix the issue. I saw a few random people talking about it, but not clearly enough to tell that that was their main issue and not something actually wrong with the code or something else. Got a decent way through the challenges all the same, though. 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
