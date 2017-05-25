@@ -665,3 +665,11 @@ Day 81: May 23, 2017 (1h27m)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 82: May 24, 2017 (1h5m) 
+
+*Challenge* - fcc beta JS challenges 
+
+*Thoughts* - Some good review today going over more of the basic JS challenges on the beta track. A lot of comparison operators and working with arrays, if and if/else statements, and switch statements. Got a decent way through today, so I should be able to finish the basic section tomorrow night! Somehow though, I keep hitting something on my keyboard that sends me to the top of the code editor section, and I have no idea what it is that I'm doing to make it do that....still very much not used to the placement of keys on my laptop so who knows what I'm hitting that causes that. Need to do some more keyboard shortcut lookup, there must be something out there to give me an answer. 
+
+--------------------------------------------------------------------------------------------------------------------------
+
