@@ -673,3 +673,11 @@ Day 82: May 24, 2017 (1h5m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 83: May 25, 2017 (1h3m)
+
+*Challenge* - fcc beta JS challenges
+
+*Thoughts* - Still more fcc beta JS! Focused on objects today. Definitely still a bunch there I didn't remember and had to work on, I took longer than I anticipated tonight. I keep forgetting when to use dot notation and when to use brackets! Got through it though, and did pretty decently overall. Only a small chunk left before the ES6 section starts!
+
+--------------------------------------------------------------------------------------------------------------------------
+
