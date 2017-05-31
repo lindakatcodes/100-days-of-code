@@ -681,3 +681,11 @@ Day 83: May 25, 2017 (1h3m)
 
 --------------------------------------------------------------------------------------------------------------------------
 
+Day 84: May 30, 2017 (52m)
+
+*Challenge* - Try Git on Code School, plus more basic JS on freeCodecamp beta site
+
+*Thoughts* - Really liked the Try Git tutorial on Code School - felt like it covered a lot of the basics of getting a new project set up and how to run some of the basic commands. Definitely going to go through and write out / save a good bit of the commands in my own cheat sheet for later. Then got a bit farther in the JS section on fcc beta. Just a few more challenges to go and I'll be up to the ES6 section, which is my first mini goal. 
+
+------------------------------------------------------------------------------------------------------------------------------
+
