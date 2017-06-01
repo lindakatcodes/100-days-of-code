@@ -689,3 +689,11 @@ Day 84: May 30, 2017 (52m)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 85: May 31, 2017 (54m)
+
+*Challenge* - finished basic JS section on fcc beta, started ES6 section
+
+*Thoughts* - Did pretty well with the last of the basic JS section. Whole section overall was a nice refresher. Only got 2 challenges into the ES6 section, but already I'm somewhat confused. It's talking about how ES6 uses let instead of var for variables, and the challenge text makes sense, but the examples they show and how they want you to change the code doesn't seem to make a lot of sense to me. I may just need more work with it to really get what they're trying to say. 
+
+----------------------------------------------------------------------------------------------------------------------------
+
