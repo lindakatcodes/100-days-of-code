@@ -697,3 +697,11 @@ Day 85: May 31, 2017 (54m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 86: June 1, 2017 (1h3m)
+
+*Challenge* - fcc beta ES6 challenges, plus video on variable declarations in ES6
+
+*Thoughts* - I've really enjoyed the community on Twitter around programming and this challenge. I shared in yesterday's tweet that I was somewhat confused on var, let, and const, and lo and behold - someone sent me a good video that explains it a bit more in depth than the fcc challenges do! It was 20 minutes long but I watched it all and feel like I've got a much better grasp on what the fcc site was trying to say and when each might be appropriate. Then I did some more exercises on the fcc beta page, working with variable declarations, arrow functions, and a bit on the rest/spread operators. Will likely look up more videos on those in the next few days as well - the site did a better job explaining those but they still feel relatively foreign to me, and I'm sure there's something out there to help solidfy my knowledge.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
