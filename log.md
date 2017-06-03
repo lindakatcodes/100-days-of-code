@@ -704,4 +704,12 @@ Day 86: June 1, 2017 (1h3m)
 *Thoughts* - I've really enjoyed the community on Twitter around programming and this challenge. I shared in yesterday's tweet that I was somewhat confused on var, let, and const, and lo and behold - someone sent me a good video that explains it a bit more in depth than the fcc challenges do! It was 20 minutes long but I watched it all and feel like I've got a much better grasp on what the fcc site was trying to say and when each might be appropriate. Then I did some more exercises on the fcc beta page, working with variable declarations, arrow functions, and a bit on the rest/spread operators. Will likely look up more videos on those in the next few days as well - the site did a better job explaining those but they still feel relatively foreign to me, and I'm sure there's something out there to help solidfy my knowledge.
 
 ---------------------------------------------------------------------------------------------------------------------------------
+Day 87: June 2, 2017 (51m)
+
+*Challenge* - Stuck in fcc beta on destructuring assignment challenges
+
+*Thoughts* - Well, got stuck for the first time in fcc beta. The 'use destructuring assignment to assign variables from nested objects' challenge made NO sense to me. I spent almost all of my time tonight trying to figure it out. I vaguely understand what they show in the example code....but how that translates to finding the length of a string is a complete mystery to me. I then tried to go to the next challenge, which also uses destructuring, and it seemed to make a bit more sense but my sleepiness was getting the best of me and I couldn't focus on it for anything. (Stupid head cold starting) Will have to try again, hopefully earlier in the day when I can focus better.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 
