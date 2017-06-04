@@ -712,4 +712,12 @@ Day 87: June 2, 2017 (51m)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+Day 88: June 3, 2017 (47m)
+
+*Challenge* - fcc beta ES6 challenges
+
+*Thoughts* - I ended up skipping over the destructuring challenges - will need to find some videos to watch to actually understand what I'm meant to do, and I just didn't want to watch any tonight. Got through a few on string literals and constructors/class, before getting stuck again on the import challenge. Pretty certain the test just isn't working properly....from what I can tell from the example and from the test showing at the bottom, my code should match perfectly, but it won't pass. Considering I've got a head cold and was already starting to lose focus, I decided to call it a night and start on the next challenge on my next day. Almost done with the ES6 section, so shouldn't be much longer before I start a new course to do a deep dive into node.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 
