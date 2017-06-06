@@ -720,4 +720,12 @@ Day 88: June 3, 2017 (47m)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Day 89: June 5, 2017 (1h45m)
+
+*Challenge* - Learning about destructuring, filed an fcc beta bug/request
+
+*Thoughts* - Spent a good while this afternoon watching videos on destructuring in ES6. Still a pretty confusing tough concept, but it started to make a tad more sense. Still, two of the challenges on the fcc beta site didn't make sense with the examples given. So I got in the chat room on gitter and asked folks about it, and though one guy said it made sense, another didn't, and so I went ahead and filed a request/suggestion anyways. If they close it or show me how I'm wrong, that's fine, at least I'll learn something. Otherwise, maybe it'll help others who might be just as confused as I was. 
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
