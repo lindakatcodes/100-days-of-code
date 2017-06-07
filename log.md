@@ -729,3 +729,11 @@ Day 89: June 5, 2017 (1h45m)
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+Day 90: June 6, 2017 (56m)
+
+*Challenge* - First two videos of Learn Node, set up to prep for projects
+
+*Thoughts* - Went through the first two videos in the learn node course, which were all about getting our environment set up to start work on the project. Checking node, downloaded the starter files, installing dependencies, and getting mongodb set up (which involved using a hosted site and getting a gui set up and connected to the database). Whew! Very minimal understanding of what all went on and what it all meant, but good walkthrough of how to do it all. Pretty sure the next video or so is going to go through what all the files and dependencies are. Boy, a ton of dependencies! Nuts. Especially for a gal who's stuck pretty hardcore to vanilla JS and learning basics. Fingers crossed I get a lot out of this course, though - I want this to help illuminate things on working with node, mongodb, express, and how they all work together so I can start using these technologies to build fuller apps and sites.
+
+----------------------------------------------------------------------------------------------------------------------------
+
