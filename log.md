@@ -737,3 +737,11 @@ Day 90: June 6, 2017 (56m)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day 91: June 7, 2017 (~2 hrs)
+
+*Challenge* - Listened to two coding podcasts
+
+*Thoughts* - I had to run an errand a good ways away tonight, and knew I wasn't going to have time to code. But I didn't want to miss a day and not hit my goal of finishing by the end of next week. So I specifically picked out two podcasts to listen to and focus on during my drive time. First was the first episode of JavaScript Air, which was waaaaaaayyyy over my head. lol I could barely follow anything, though I tried my best. It was definitely cool to hear the guy who created JS talking about the language and hear his thoughts on things. And there were a few times they talked about how important it is to get a good grip on the language itself before really diving into frameworks and such, so that was nice to hear. (Since it's the path I'm taking lol) The second was the newest episode of Front End Happy Hour, which was all about style guides and reusable components. This is one of my favorites as I like to hear from all the different voices on the show. It was also interesting to listen to the reasons for and against having a unified style guide in a company, and getting some ideas of places to look into to investigate further.
+
+------------------------------------------------------------------------------------------------------------------------------
+
