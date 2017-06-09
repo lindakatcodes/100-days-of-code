@@ -745,3 +745,11 @@ Day 91: June 7, 2017 (~2 hrs)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 92: June 8, 2017 (1h6m)
+
+*Challenge* - More Learn Node work
+
+*Thoughts* - Well, I still feel like I'm in over my head - or maybe it's just that it feels like Wes talks fast. lol But I got through three videos tonight, #3-5. One was a quick runthrough of some of the variables and dependencies we're going to use along with a peek into some of the starter files. One was on routing, and getting used to how that looks in our files and talking about the request/response idea it utilizes. And the other started us talking about templating and using Pug. The routing I've somewhat dealt with before in previous classes, so that felt a little familiar, though there's still a good bit that's been brushed over and just introduced, but the templating - that was all new to me. Pug actually seems pretty decent and interesting, so I'm curious to see how it'll continue to work out as we get farther into the course. I like the idea of templating - just haven't really done it before as far as HTML and layout goes. The past few days I keep coming up against ideas of reusable pieces - definitely on my mind now. 
+
+------------------------------------------------------------------------------------------------------------------------------
+
