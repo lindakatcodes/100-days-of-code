@@ -753,3 +753,11 @@ Day 92: June 8, 2017 (1h6m)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Day 93: June 9, 2017 (54m)
+
+*Challenge* - Learn Node - final core concepts videos
+
+*Thoughts* - Good info tonight, though it still feels like I'm working way above my knowledge level. lol I'm really hoping (but also really doubtful) that once this course is through, I could create my own app using what I learn through this. I am learning - exposure but also knowledge sinking in - but also there's a decent bit set up already for us to help the course go smoother and have things to walk through, and that's what I worry about not understanding enough to do on my own in the future. I think it'll be good though. Just feeling a bit of the newb imposter syndrome feelings. lol
+
+--------------------------------------------------------------------------------------------------------------------------------
+
