@@ -761,3 +761,11 @@ Day 93: June 9, 2017 (54m)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+Day 94: June 10, 2017 (2h9m)
+
+*Challenge* - Work on Daily CSS clock image
+
+*Thoughts* - Working through the weekend so I can make my goal of finishing this by my birthday next Friday. Still I didn't want to watch more vidoes, so I starting working on my next daily CSS image again - making a clock. Decided to start over and go with a new idea that'd popped into my mind, and actually got pretty far on it today. Just a few tweaks to work on tomorrow to get it functioning like I want, and maybe some more tweaks to overall design and finishing touches. Really hoping I can finish it up tomorrow so I can spend the week working on the Node course. 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
