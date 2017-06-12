@@ -769,3 +769,11 @@ Day 94: June 10, 2017 (2h9m)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+Day 95: June 11, 2017 (1h15m)
+
+*Challenge* - More work on daily CSS clock
+
+*Thoughts* - Well I got it as finished as I can right now. The time looks and works like I want, the AM/PM switch looks and works like I want, and the overall design I like. The only thing I couldn't / haven't figured out is that the time and overall size of the clock will not always look like I want at different screen sizes. The time I don't understand, it will go over the edge of the div it's contained in if it gets too big and I don't know why. And if the screen is too small, the clock starts to look funny and naturally the time isn't positioned like I want. I'm using all viewport and percentage for my sizes and width/heights, so there's just something I'm not seeing and I would need to do a bunch of media queries for different sizes to rearrange it to the right size that right now I just don't want to do. So it's going to be as good as it'll get until I want to spend more time on it. 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
