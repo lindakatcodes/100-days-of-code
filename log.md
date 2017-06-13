@@ -777,3 +777,11 @@ Day 95: June 11, 2017 (1h15m)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
+Day 96: June 12, 2017 (~1h)
+
+*Challenge* - 2 Learn Node videos on database storage
+
+*Thoughts* - Tonight's videos seemed to go by pretty quickly and contained a ton of information. For the first time really since I started I forgot to start my timer before I started, so the time is estimated off of when I'm pretty sure I started. lol Everything seems to go so fast in these vidoes - I'm following along and understanding as we go through each step, but I simultaneously feel like there's so much I'm not getting. Maybe it's just because we don't *really* do every bit of the code? I mean we don't get into any of the styling, and parts of the naming conventions are already done for us....I don't know. Maybe it's just the ease Wes talks about things...you can tell he's done this work for a good while and already knows everything and so I feel like I should know more than I do? No idea. I'm making sure to pause often and write everything as we go, and write notes when it makes sense so that I can look back and understand what I was doing. Tonight we made a form, learned about looping in Pug, set up a post router, were introduced to mixins, & set up our first mongoose/mongoDB schema. 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
