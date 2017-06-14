@@ -785,3 +785,11 @@ Day 96: June 12, 2017 (~1h)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+Day 97: June 13, 2017
+
+*Challenge* - Async await video for Learn Node, Codekata, + updating portfolio ideas
+
+*Thoughts* -  Tonight's video was a good look into part of how this is going to work and update our database, but I also started to feel that I was being too handheld and wasn't coding enough. So I did a kata on CodeWars, which went way better than I expected! I was able to get the requested function to one line, which completely amazed me. I actually had a good idea of what I was doing and though I had to look at some JS docs to be sure I was grabbing the things I meant to, I knew just what I was looking for. Pretty pleased with that. :) Then did a bit of thinking/planning for what I want to do to update my portfolio. I have general ideas on basically every part, so next is to start actually getting more concrete ideas for what and how to accomplish what I want so I can start to assemble it all. First up, I think, will be my projects section....if I can work out how I want to display that and do some tests to really get it working well, I think the rest should fall into place somewhat easily.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
