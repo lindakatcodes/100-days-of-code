@@ -785,7 +785,7 @@ Day 96: June 12, 2017 (~1h)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Day 97: June 13, 2017
+Day 97: June 13, 2017 (59m)
 
 *Challenge* - Async await video for Learn Node, Codekata, + updating portfolio ideas
 
