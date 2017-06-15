@@ -793,3 +793,11 @@ Day 97: June 13, 2017 (59m)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+Day 98: June 14, 2017 (1h4m)
+
+*Challenge* - CSS article reading
+
+*Thoughts* - I wasn't able to get started until late tonight, so I knew that actually coding wasn't going to be able to happen. Still, I wanted my brain to be thinking about code, so I dug into two articles I heard about while listening to the Shop Talk Show podcast earlier today. One talked about the whole CSS-in-JS thing that's apparently going around now, and seems to have a lot of good info and examples but was admittedly more in depth than my knowledge really is, and I started to feel myself getting sleepy. So I stopped partway (to continue later) and switched to a CSS Tricks article about aspect ratio boxes, which I actually think I can use for my portfolio redesign. Reading through the article, I actually think I might be able to use it on my CSS clock as well! Will have to try soon and see if I can get it to work.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
