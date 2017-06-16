@@ -801,3 +801,11 @@ Day 98: June 14, 2017 (1h4m)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+Day 99: June 25, 2017 (1h52m)
+
+*Challenge* - Learn Node flash messages video, adjusting VS Code to work/look better for me
+
+*Thoughts* - I attempted to bring my laptop with me tonight and work on coding while I treated myself to dinner, but I found I couldn't concentrate on anything and just couldn't seem to get started on anything. Note for next time - need some files and/or projects already started before I attempt again. lol Luckily, I got home with enough time to work on stuff tonight anyways. I watched one video for Learn Node, working with flash messages for our app. Then I got distracted and spent the rest of my time adjusting my VS Code editor on my laptop. It started with trying to find the setting to remove the minimap that started showing up and adjusting some other things that had been irking me, and ended with me finding a new theme and some new fonts that I really like and getting my editor set up to be easy and awesome for me to read and work in. Time well spent, I think. :)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
